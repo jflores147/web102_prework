@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+Perhaps the styling can be fixed up.
 
 ## Video Walkthrough
 
@@ -42,10 +43,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-Going into this project it was pretty difficult getting use to the syntax. At first I was having troule understanding what reduce is and how it's used in this project. As well as the filter which was a bit difficult to understand at first but was more managble than understanding reduce. 
+Going into this project it was pretty difficult getting use to the syntax. At first I was having troule understanding what reduce is and how it's used in this project. As well as the filter which was a bit difficult to understand at first but was more managble than understanding reduce. Overall great experience!
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jessie Flores]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
